@@ -747,6 +747,6 @@ This project is licensed under the **MIT License** - see the LICENSE file for de
 
 ⭐ Star this repo if you find it helpful!
 
-[Report Bug](https://github.com/your-repo/issues) • [Request Feature](https://github.com/your-repo/issues)
+[Report Bug](https://github.com/lijoraj-p-r/issues) • [Request Feature](https://github.com/lijoraj-p-r/issues)
 
 </div>
